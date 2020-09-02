@@ -1091,6 +1091,7 @@ dt {
   letter-spacing: 1.6px;
   padding: 1px;
   cursor: pointer;
+  box-shadow: 5px 5px 15px #989898;
 }
 
 .contact-right3 .contact-right3-wrapper .contact-right-item:hover {
